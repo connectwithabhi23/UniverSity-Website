@@ -22,4 +22,4 @@ CSS custom properties\
 JavaScript
 
 ## Deployment
-Live site URL - https://benevolent-marshmallow-4cee1c.netlify.app/index.html
+Live site URL - https://benevolent-marshmallow-4cee1c.netlify.app
